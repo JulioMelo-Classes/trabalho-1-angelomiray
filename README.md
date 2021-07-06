@@ -121,8 +121,8 @@ Testa um arquivo em que o usuário inseriu um mesmo spot mais de uma vez.
 ```
 
 
-## sucess_bet.dat
-Testa um arquivo em que o usuário os dados no formato correto. 
+## sucess_bet1.dat
+Testa um arquivo em que o usuário insere os dados corretamente. 
 
 - input:
 ``` 
