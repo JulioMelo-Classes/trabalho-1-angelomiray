@@ -1,3 +1,0 @@
-/home/runner/keno/trabalho-1-angelomiray/build/CMakeFiles/rebuild_cache.dir
-/home/runner/keno/trabalho-1-angelomiray/build/CMakeFiles/keno.dir
-/home/runner/keno/trabalho-1-angelomiray/build/CMakeFiles/edit_cache.dir

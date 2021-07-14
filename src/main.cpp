@@ -13,6 +13,21 @@
 
 using namespace std;
 
+/*
+Avaliação
+Processamento do Arquivo de Entrada: 1
+Execução correta: 1
+Interfcace Textual: 1
+Documentação: 1
+Compilação automatizada: 1
+Organização em src, include, build, data: 0.8 (vc colocou os arquivos de testes no build)
+
+Observações:
+O arquivo GameProcessing poderia facilmente ser transformado em uma classe. Boa parte das funções
+lá usam o objeto KenoBet, vc poderia usar esse objeto como atributo da classe. Outra sugestão era
+concentrar a validação do arquivo de apostas em mais uma classe assim o projeto ficaria bem mais organizado.
+*/
+
 
 int main(int argc, char *argv[]){
 
